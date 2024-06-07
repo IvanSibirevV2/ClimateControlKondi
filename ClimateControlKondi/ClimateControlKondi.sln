@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimateControlKondi", "ClimateControlKondi\ClimateControlKondi.csproj", "{0E0F6483-B492-4620-9667-28BF53DC9CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{2207DA5B-C0EF-448B-BE65-65C48562663C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E0F6483-B492-4620-9667-28BF53DC9CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0F6483-B492-4620-9667-28BF53DC9CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0F6483-B492-4620-9667-28BF53DC9CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0F6483-B492-4620-9667-28BF53DC9CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2207DA5B-C0EF-448B-BE65-65C48562663C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2207DA5B-C0EF-448B-BE65-65C48562663C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2207DA5B-C0EF-448B-BE65-65C48562663C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2207DA5B-C0EF-448B-BE65-65C48562663C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00E60AAA-76DD-432E-96DA-75D54D934574}
+	EndGlobalSection
+EndGlobal
