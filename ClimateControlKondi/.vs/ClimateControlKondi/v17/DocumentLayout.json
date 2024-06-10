@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2207DA5B-C0EF-448B-BE65-65C48562663C}|WpfApp1\\WpfApp1.csproj|c:\\d\\github\\githuboll\\climatecontrolkondi\\climatecontrolkondi\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2207DA5B-C0EF-448B-BE65-65C48562663C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:37:25.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
