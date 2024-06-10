@@ -24,8 +24,9 @@ namespace Wpf_Manager
         {
             InitializeComponent();
         }
-        private void QWE() 
+        private System.Boolean QWE() 
         {
+            System.Boolean _Flag = false;
             ("select Count(Manager.login) from Manager"
                 + " where Manager.login = '" + this.TextBox_Login.Text
             + "' and Manager.password ='" + this.TextBox_PasWord.Text
@@ -35,17 +36,33 @@ namespace Wpf_Manager
             .SetIf(_fBool: a => a.Count == 1
                 , _f1: a => {
                     this.GridMain.Background = new SolidColorBrush(Color.FromArgb(0xff, 0x00, 0xaa, 0x00));
+                    _Flag = true;
                 }
                 , _f0: a => {
                     this.GridMain.Background = new SolidColorBrush(Color.FromArgb(0xff, 0xaa, 0x00, 0x00));
+                    _Flag = false;
                 })
             ;
+            return _Flag;
         }
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e){QWE();}
         private void TextBox_TextChanged_1(object sender, TextChangedEventArgs e){QWE(); }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             System.Windows.Application.Current.Shutdown();
+        }
+
+        private void Button_Click2(object sender, RoutedEventArgs e)
+        {
+            if (QWE()) 
+            {
+                this.DialogResult = true;
+                this.Close();
+            }
+            else
+            {
+                this.DialogResult = false;
+            }
         }
     }
 }

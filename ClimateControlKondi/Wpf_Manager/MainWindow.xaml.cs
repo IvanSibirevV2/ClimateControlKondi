@@ -25,7 +25,7 @@ namespace Wpf_Manager
             
             ClimateControlKondi.Program.Main();
             Window_Authentication _Window_Authentication = new Window_Authentication();
-            _Window_Authentication.ShowDialog();
+            while (!_Window_Authentication.ShowDialog().Value) { };
             InitializeComponent();
         }
     }

@@ -12,7 +12,7 @@
         <TextBox Name="TextBox_Login" HorizontalAlignment="Left" Height="25" Width="200" Margin="0,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" TextChanged="TextBox_TextChanged"/>
         <Label Content="Введите пароль" HorizontalAlignment="Left" Margin="0,60,0,0" VerticalAlignment="Top"/>
         <TextBox Name="TextBox_PasWord" HorizontalAlignment="Left" Height="25" Width="200" Margin="0,80,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" TextChanged="TextBox_TextChanged_1"/>
-        <Button Content="Закрыть Приложение" HorizontalAlignment="Left" Margin="0,110,0,0" VerticalAlignment="Top" Click="Button_Click"/>
-        <Button Content="Пройти аутентификацию" HorizontalAlignment="Left" Margin="0,135,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Name="ButtonExit" Content="Закрыть Приложение" HorizontalAlignment="Left" Margin="0,110,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Name="ButtonOk" Content="Пройти аутентификацию" HorizontalAlignment="Left" Margin="0,135,0,0" VerticalAlignment="Top" Click="Button_Click2"/>
     </Grid>
 </Window>
