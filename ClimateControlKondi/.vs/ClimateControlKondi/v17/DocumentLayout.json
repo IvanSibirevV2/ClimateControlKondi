@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2207DA5B-C0EF-448B-BE65-65C48562663C}|WpfApp1\\WpfApp1.csproj|c:\\d\\github\\githuboll\\climatecontrolkondi\\climatecontrolkondi\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2207DA5B-C0EF-448B-BE65-65C48562663C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}|Wpf_Manager\\Wpf_Manager.csproj|c:\\d\\github\\githuboll\\climatecontrolkondi\\climatecontrolkondi\\wpf_manager\\window_authentication.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}|Wpf_Manager\\Wpf_Manager.csproj|solutionrelative:wpf_manager\\window_authentication.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}|Wpf_Manager\\Wpf_Manager.csproj|c:\\d\\github\\githuboll\\climatecontrolkondi\\climatecontrolkondi\\wpf_manager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}|Wpf_Manager\\Wpf_Manager.csproj|solutionrelative:wpf_manager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0F6483-B492-4620-9667-28BF53DC9CEB}|ClimateControlKondi\\ClimateControlKondi.csproj|c:\\d\\github\\githuboll\\climatecontrolkondi\\climatecontrolkondi\\climatecontrolkondi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0F6483-B492-4620-9667-28BF53DC9CEB}|ClimateControlKondi\\ClimateControlKondi.csproj|solutionrelative:climatecontrolkondi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}|Wpf_Manager\\Wpf_Manager.csproj|c:\\d\\github\\githuboll\\climatecontrolkondi\\climatecontrolkondi\\wpf_manager\\window_authentication.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}|Wpf_Manager\\Wpf_Manager.csproj|solutionrelative:wpf_manager\\window_authentication.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}|Wpf_Manager\\Wpf_Manager.csproj|c:\\d\\github\\githuboll\\climatecontrolkondi\\climatecontrolkondi\\wpf_manager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}|Wpf_Manager\\Wpf_Manager.csproj|solutionrelative:wpf_manager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\WpfApp1\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\WpfApp1\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Title": "Window_Authentication.xaml.cs",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\Wpf_Manager\\Window_Authentication.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf_Manager\\Window_Authentication.xaml.cs",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\Wpf_Manager\\Window_Authentication.xaml.cs",
+              "RelativeToolTip": "Wpf_Manager\\Window_Authentication.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T05:37:25.749Z",
+              "WhenOpened": "2024-06-10T06:47:43.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\ClimateControlKondi\\Program.cs",
+              "RelativeDocumentMoniker": "ClimateControlKondi\\Program.cs",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\ClimateControlKondi\\Program.cs",
+              "RelativeToolTip": "ClimateControlKondi\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADgvxgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:31:57.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\Wpf_Manager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf_Manager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\Wpf_Manager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Wpf_Manager\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:30:09.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\Wpf_Manager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Wpf_Manager\\MainWindow.xaml",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\Wpf_Manager\\MainWindow.xaml",
+              "RelativeToolTip": "Wpf_Manager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T06:30:12.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window_Authentication.xaml",
+              "DocumentMoniker": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\Wpf_Manager\\Window_Authentication.xaml",
+              "RelativeDocumentMoniker": "Wpf_Manager\\Window_Authentication.xaml",
+              "ToolTip": "C:\\D\\GitHub\\GitHubOll\\ClimateControlKondi\\ClimateControlKondi\\Wpf_Manager\\Window_Authentication.xaml",
+              "RelativeToolTip": "Wpf_Manager\\Window_Authentication.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T07:26:26.176Z",
               "EditorCaption": ""
             }
           ]

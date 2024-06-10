@@ -169,7 +169,7 @@ namespace ClimateControlKondi
                 GROUP BY Сlient.login
             ;".Execute_SQLite().GetIf(_fBool: a => a.Count == 0, _f1: a => false, _f0: a => true).ToString().Add(" - результат не успешной аутентификации Заказчик").WriteLine();
 
-            @"".ReadLine();
+            //@"".ReadLine();
 
             @"CREATE TABLE TypeEquipment(Id   INTEGER PRIMARY KEY,Name STRING);"
             .Execute_SQLite();
@@ -206,9 +206,9 @@ namespace ClimateControlKondi
             );"
             .Execute_SQLite();
 
-            "echo qqw".CMDoor_Run();
-
-            "fsfsd".WriteLine();
+            "echo Скрипты выполнены без ошибок! (CMD)".CMDoor_Run();
+            "Скрипты выполнены без ошибок! (C#)".WriteLine();
+            "База данных развернута и протестированна".WriteLine();
             "".ReadLine();
         }
     }

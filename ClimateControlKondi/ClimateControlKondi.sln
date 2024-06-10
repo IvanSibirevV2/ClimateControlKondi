@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33529.622
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimateControlKondi", "ClimateControlKondi\ClimateControlKondi.csproj", "{0E0F6483-B492-4620-9667-28BF53DC9CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{2207DA5B-C0EF-448B-BE65-65C48562663C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Manager", "Wpf_Manager\Wpf_Manager.csproj", "{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0E0F6483-B492-4620-9667-28BF53DC9CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E0F6483-B492-4620-9667-28BF53DC9CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E0F6483-B492-4620-9667-28BF53DC9CEB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2207DA5B-C0EF-448B-BE65-65C48562663C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2207DA5B-C0EF-448B-BE65-65C48562663C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2207DA5B-C0EF-448B-BE65-65C48562663C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2207DA5B-C0EF-448B-BE65-65C48562663C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41A38BA-F2DA-455D-BDA9-7E6C84CFABBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
